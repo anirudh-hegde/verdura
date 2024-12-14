@@ -1,11 +1,12 @@
 import React, { useEffect } from 'react'
-import greenery from '/assets/greenery.mp4'
+// import greenery from '/assets/greenery.mp4'
+import greenery from '/assets/nature.mp4'
 
 const Heading = () => {
 
   return (
     <section className='w-full'>
-      <div className='relative flex flex-col justify-center items-center w-full h-[40vw]'>
+      <div className='relative flex flex-col justify-center items-center bg-gray-950 w-full h-[40vw]'>
         <video
           autoPlay
           loop

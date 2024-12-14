@@ -4,7 +4,7 @@ import verdura from '/assets/verdura.png'
 const Footer = () => {
   return (
     <section className='bg-black w-full'>
-      <footer className='justify-center items-center bg-black my-[3vw] p-14 md:p-1 lg:p-1 pt-[2vw] border-t-[0.01em]'>
+      <footer className='justify-center items-center bg-black p-14 md:p-1 lg:p-1 pt-[2vw] border-t-[0.01em]'>
         <div className='justify-center items-center mx-auto p-20 max-w-screen-xl text-center'>
           <a className='flex justify-center items-center' href='#'>
             <img src={verdura} alt='logo' className='w-50 h-12' />
