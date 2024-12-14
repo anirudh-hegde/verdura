@@ -14,7 +14,7 @@ const Display = () => {
       style={styles}
     >
       <div className='my-20 w-[60vw] h-[40vw]'>
-        <h2 className='mx-auto max-w-[900px] font-body font-semibld text-center text-green-300 text-primary-600 xl:text-[66px] leading-none'>
+        <h2 className='mx-auto max-w-[900px] font-body font-semibld font-semibold text-center text-green-300 text-primary-600 xl:text-[66px] leading-none'>
           GreenAir accelerates decarbonization
         </h2>
         {/* <img
